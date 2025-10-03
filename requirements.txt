@@ -1,0 +1,8 @@
+Flask
+pymongo
+pycryptodome
+protobuf
+aiohttp
+requests
+pytz
+gunicorn
